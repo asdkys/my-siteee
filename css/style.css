@@ -1,0 +1,51 @@
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+  
+  body{
+    background-color: black;
+  }
+
+nav{
+  background-color: whitesmoke;
+  text-color: black;
+}
+
+.page-footer{
+  background: whitesmoke;
+}
+
+.Image{
+  
+}
+
+h2{
+align-self: center;
+}
+
+body {
+  color: whitesmoke;
+}
+
+.sidenav{
+  color: whitesmoke;
+}
+
+.container{
+  color: black;
+}
+
+.brand-logo{
+  color: black;
+}
+
+.sidenav-trigger{
+  color: blackx;
+}
